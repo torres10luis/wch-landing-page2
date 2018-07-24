@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap";
+
+#First{
+padding: 100px 50px 100px 50px;
+background-image: url("assets/img/bg-masthead.jpg");
+background-size: cover;
+background-position: center;
+}
+
+body{
+  // overflow-x: hidden;
+}
